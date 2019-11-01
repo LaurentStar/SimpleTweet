@@ -33,4 +33,14 @@
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivProfileImage"
         tools:text="Jball..... damn this is a sad story...." />
+
+    <TextView
+        android:id="@+id/tvTimeStamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvBody"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@+id/ivProfileImage"
+        tools:text="j hrs ago" />
 </RelativeLayout>
