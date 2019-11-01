@@ -38,11 +38,12 @@ Here's a walkthrough of implemented user stories:
 
 <img src=https://github.com/LaurentStar/SimpleTweet/blob/master/ezgif-6-9dad3ddc41f9.gif?raw=true title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://github.com/LaurentStar/SimpleTweet/blob/master/ezgif-6-9dad3ddc41f9.gif?raw=true
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Not enough time, too many things happening. job interviews, research reports, nase rover team, school, .
 
 ## Open-source libraries used
 
