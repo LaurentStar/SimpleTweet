@@ -36,7 +36,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=https://github.com/LaurentStar/SimpleTweet/blob/master/ezgif-6-9dad3ddc41f9.gif?raw=true title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/LaurentStar/SimpleTweet/blob/master/walk_through.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 https://github.com/LaurentStar/SimpleTweet/blob/master/ezgif-6-9dad3ddc41f9.gif?raw=true
 
